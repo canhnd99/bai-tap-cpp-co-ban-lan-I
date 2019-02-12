@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549992217 source:c:\users\admin\desktop\c++ tutorial\c++ basic\baitap\code\bai_7\main.cpp
+	<iostream>
+	<cstring>
+	"Bai_3.h"
+	"Bai_4.h"
+	"Bai_5.h"
+
+1549992206 c:\users\admin\desktop\c++ tutorial\c++ basic\baitap\code\bai_7\bai_3.h
+	<iostream>
+
+1549992434 c:\users\admin\desktop\c++ tutorial\c++ basic\baitap\code\bai_7\bai_4.h
+	<iostream>
+
+1549992371 c:\users\admin\desktop\c++ tutorial\c++ basic\baitap\code\bai_7\bai_5.h
+	<iostream>
+
